@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Angular Expore
 
 You can use the [editor on GitHub](https://github.com/rajenderthota/explore.angular/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
