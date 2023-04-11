@@ -1,4 +1,9 @@
 # explore.angular
 
+### Angular CLI Commands
+
 ```
-example
+ng g c about --standalone
+
+
+`
