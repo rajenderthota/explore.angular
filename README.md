@@ -2,6 +2,8 @@
 
 ### Angular CLI Commands
 
+set NODE_OPTIONS=--openssl-legacy-provider && 
+
 ```
 ng g c about --standalone
 
